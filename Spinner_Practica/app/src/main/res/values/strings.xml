@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner_Practica</string>
+
+    <array name="categorias">
+        <item>Seleccione una opción</item>
+        <item>Carne</item>
+        <item>Burguer King</item>
+        <item>Pollo Campestre</item>
+        <item>Pollo Campero</item>
+        <item>Pizza</item>
+        <item>China Wok</item>
+        <item>Tacos Maya</item>
+        <item>Tacos Marinita</item>
+        <item>Wendys</item>
+        <item>Tacos Bell</item>
+    </array>
+</resources>
